@@ -1,15 +1,13 @@
-title: 
+title: NoRellyRain
 description: 
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9gjL6bxkASUK4rTyW1VbGGGuZVrxUv7Gc9JitGFMtiDzjuhd7Zt
+  - 9gF3KjKMbbrmN5A6sXGMaEETndUzET1gNb4Lcad52RjDhgTwNFe
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/norellyrain
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/channels/871835304250708028/896477421593837641
     icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
