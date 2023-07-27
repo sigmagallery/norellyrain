@@ -1,0 +1,26 @@
+nfts:
+- tokenId: 31c0125ed0e340af599e1a49a981b824de6418e465b958ee633ce99a5ce00842
+  name: 'Ergo cat #01'
+  description: 'Ergo cat #01 | Frankenstein | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicjroqzuvmjzacunzlb5pyhsbspibz4ufktrtmrempn63lwm2tbnu
+- tokenId: bb3fcc35bbdae7d25288889bd49378b2a05632f75f26044327c53c357e384c57
+  name: 'Ergo cat #02'
+  description: 'Ergo cat #02 | Teenager | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifz5ufkkr77pxhrkggayb7r2hhwvaigg3fbqilawci3yx4gfz57yy
+- tokenId: 05fa4b5a373ff85b03584b25e2b405c782fffecade74c20b3c9db54b77ceef8c
+  name: 'Ergo cat #03'
+  description: 'Ergo cat #03 | Aristocrat | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibjdbit733pv7mnjwnckf7zv7j35lpanhve7py4uwdefbt7td3ndy
+- tokenId: 70d72aa96dd2e2b914b1ea3f0583d4f40ac54a195fa61f15bf1d08295ca0add2
+  name: 'Ergo cat #04'
+  description: 'Ergo cat #04 | Fairy | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidndw2uqeqr7urf3uo6vtupztvnwgbtb3lyo4fkz2gwdynddzhbty
+- tokenId: ed40d0d5f6039683fb303e44641334e0059d072a021f2c84a8ba7d6823f824e3
+  name: 'Ergo cat #06'
+  description: 'Ergo cat #06 | Robot | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicqfnpflo5i2zsk7qnohc3bktu6v22ps4pejdyklfuh6jeo2qg5ce
