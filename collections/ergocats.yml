@@ -1,14 +1,24 @@
 nfts:
-- tokenId: 31c0125ed0e340af599e1a49a981b824de6418e465b958ee633ce99a5ce00842
+- tokenId: c685fef75fe3e6097bb73cbb9dbe44cecd52144849f07f76c012ffbc55c85920
   name: 'Ergo cat #01'
   description: 'Ergo cat #01 | Frankenstein | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeicjroqzuvmjzacunzlb5pyhsbspibz4ufktrtmrempn63lwm2tbnu
+    https://gateway.ipfs.io/ipfs/bafybeicnoaosatekfltgustihwut74z7utv6sr7bvzsvul5d2ytjrmbm5y
+- tokenId: 433a338870cec005313e6509ec1f578ddf80700572b9d8a5de0cbb6352a1b9f7
+  name: 'Ergo cat #02'
+  description: 'Ergo cat #02 | Teenager | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieclykkqpq6m6yjpvr6ir6qmlsobalqxlk7l52eyd5k2hl2giesr4
 - tokenId: bb3fcc35bbdae7d25288889bd49378b2a05632f75f26044327c53c357e384c57
   name: 'Ergo cat #02'
   description: 'Ergo cat #02 | Teenager | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifz5ufkkr77pxhrkggayb7r2hhwvaigg3fbqilawci3yx4gfz57yy
+- tokenId: 376db947bd4e4c682a6c8eafd0261fd86cd21f3e9f67b694bcd4d0c689cdfbc2
+  name: 'Ergo cat #03'
+  description: 'Ergo cat #03 | Aristocrat | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigusft7rgd4zifn4xtnxr3telnoncb4qvix57qjuabxourl7ilffm
 - tokenId: 05fa4b5a373ff85b03584b25e2b405c782fffecade74c20b3c9db54b77ceef8c
   name: 'Ergo cat #03'
   description: 'Ergo cat #03 | Aristocrat | 2000x2000 px | Creator @norellyrain'
@@ -19,8 +29,43 @@ nfts:
   description: 'Ergo cat #04 | Fairy | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeidndw2uqeqr7urf3uo6vtupztvnwgbtb3lyo4fkz2gwdynddzhbty
+- tokenId: 41d7c0cae3b059307d2521c27fa9f5f9174d6ad4d4244570dded1513da0b9796
+  name: 'Ergo cat #05'
+  description: 'Ergo cat #05 | Vampire | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidul4ktpxstyawrwomjp4drzhs6kn7dac4akptbw3asckwbegwaxu
 - tokenId: ed40d0d5f6039683fb303e44641334e0059d072a021f2c84a8ba7d6823f824e3
   name: 'Ergo cat #06'
   description: 'Ergo cat #06 | Robot | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicqfnpflo5i2zsk7qnohc3bktu6v22ps4pejdyklfuh6jeo2qg5ce
+- tokenId: ae6bbd33b6a24069a15bc701e682ff2415ae1af5b4e45d74e8d355c895f30bcd
+  name: 'Ergo cat #07'
+  description: 'Ergo cat #07 | Pirate | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieavklxsocx7dfjf74363qpdzbhuksvqowocqj7wxzpwmtzajbrci
+- tokenId: b59bd6fa3ec7b3dc4e1ab970b069366c9cccb4d59d3f45e98b89119edaf4d4ca
+  name: 'Ergo cat #08'
+  description: 'Ergo cat #08 | Demon | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicmiohjbpxtup3kpdbeomtmq5dd4tnr6pqmkqyzxk6somk2lcvdcm
+- tokenId: 84b729fdcae4347156ebc7f3ec6bf965b123bc0e5a071316757956bc00bb808d
+  name: 'Ergo cat #09'
+  description: 'Ergo cat #09 | Mermaid | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidt2zsfb4vhw7f5ch7pltonxb5sb222zf3gsfytdkaskfvnx2df2i
+- tokenId: e8a6b188779b9e105572e6d200903c41e773e5c82fe04032330d78d11a3c0eb4
+  name: 'Ergo cat #10'
+  description: 'Ergo cat #10 | Angel | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiet2rhktsie64o6xdwf6grxhh6npmsblwxvsfnlsg6xalbnswhony
+- tokenId: 215c3c9aa4ce13b1a53d07c2df316b89a7d807afd35e70065b8296d1fcc44f5e
+  name: 'Ergo cat #11'
+  description: 'Ergo cat #11 | Hacker | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibmkr6uojqa2ua6rzrawqqngkzqzymtbiss44j56xlfmpestyhjx4
+- tokenId: dc8760d445cd24fe545750e6d5b6078c2656a40a6525db44900bc50046eccc2d
+  name: 'Ergo cat #12'
+  description: 'Ergo cat #12 | Candle | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifg2k3rjfa54racr6hx7klg55zp6vsgvbmjbfefmx4rgubr47l26u
