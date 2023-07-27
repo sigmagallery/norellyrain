@@ -1,0 +1,16 @@
+nfts:
+- tokenId: aa443a61ab557d9f5ef5708c09d0e49afdcb4dc71d54c617f9f52c0672e7b477
+  name: 'Owl #1'
+  description: 'Owl #1 | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihavd5zs64hjw2wnta6p56d5yt5xb33xricqcnkwsua4btykyporq
+- tokenId: bb639d17588105db345b3d15e26ee35cdf9aaa0b2422db38121016236e283933
+  name: 'Owl #2'
+  description: 'Owl #2 | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigo6mwppui6drbpeizfytjqjljkkrhfepswhzsxi4j4s32t7fe4jq
+- tokenId: f3da0004d10b2b044c344def1b47819e543ff3d8c4dac9d7364ca5b020752adf
+  name: 'Owl #3'
+  description: 'Owl #3 | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiharvi2uievbypnc7l4e6lie25ewhwobbz5hr52wwfvwxpq65craa
