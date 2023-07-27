@@ -1,4 +1,13 @@
 collections:
-- label: 
-  data: collection1.yml
+- label: Ergo Cats
+  data: ergocats.yml
+  image: 
+- label: Owls
+  data: owls.yml
+  image: 
+- label: Stone Statues
+  data: stonestatues.yml
+  image: 
+- label: NFT Girls
+  data: nftgirls.yml
   image: 
