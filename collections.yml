@@ -1,19 +1,19 @@
 collections:
 - label: Ergo Cats
   data: ergocats.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/ergo-cats/c685fef75fe3e6097bb73cbb9dbe44cecd52144849f07f76c012ffbc55c85920.webp
 - label: Owls
   data: owls.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/owls/aa443a61ab557d9f5ef5708c09d0e49afdcb4dc71d54c617f9f52c0672e7b477.webp
 - label: Stone Statues
   data: stonestatues.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/stone-statues/80a0b336d3b775312a1f2edc28ed9a4f02af95cd84873044ca4d0d65bd89257e.webp
 - label: NFT Girls
   data: nftgirls.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/nft-girls/02784ea24ff00408e3355329337606e8c40d7be87ce38b008107e683deb5c6d3.webp
 - label: Norellyrain hand drawings
   data: norellyrainhanddrawings.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/norellyrain-hand-drawings/0cd9fe2b2f6941fc124515523a4045aa693ed2bc05914c4cb5ce6e22a078cbc7.webp
 - label: Norellyrain scan art
   data: norellyrainscanart.yml
-  image: 
+  image: https://img2.sigma.gallery/norellyrain/norellyrain-scan-art/a2c2f0c3c4b0e67b59dc09250ca9d87aa4a49bb924b6cf819130d1e2f8d11ff9.webp
