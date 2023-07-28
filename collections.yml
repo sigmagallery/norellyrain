@@ -11,3 +11,9 @@ collections:
 - label: NFT Girls
   data: nftgirls.yml
   image: 
+- label: Norellyrain hand drawings
+  data: norellyrainhanddrawings.yml
+  image: 
+- label: Norellyrain scan art
+  data: norellyrainscanart.yml
+  image: 
