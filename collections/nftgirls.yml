@@ -9,16 +9,39 @@ nfts:
   description: Clown girl 1/1 | 2000x2000 px | Creator @norellyrain
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiagbrtsij5jz5ik2wkcdkjqttmknuyghwcxjbqg2u5sjt4f4dm2cm
+- tokenId: 32440a0060fa762555c522fa84d5fb2266aa65e64f19c094f3b07fc4c168d770
+  name: Elf girl 1/1
+  description: Elf girl 1/1 | 2000x2000 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeictqjabxptniol6dob4bd7fdsjffvpemsrdy22pjg6clo3qlpgdju
 - tokenId: fea36470eac17fbb9ff2f1aeacb30215726e3d030be1e477a9b934361bffc826
   name: Ergonaut girl 1
   description: Ergonaut girl 1 | 2000x2000 px | Creator @norellyrain
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeidmpyluyirqfbrllwoqs2crrwwxq3cl5ktreajbnsh2d6uh6xoxpa
-- tokenId: b91279602eedb37e7220268d72770e0bc46816cfda2832c59f78180db25a78ba
+- tokenId: dac88e7dc4fc3389f9e189b34ac654b669439347773c0bd2a0fa41af5924fdf5
   name: Ergonaut girl 2
-  description: Ergonaut girl 2 | 2000x3000 px | Creator @norellyrain
+  description: Ergonaut girl 2 | 2000x2000 px | Creator @norellyrain
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifjw2bd2h2rzov2s5dxv3xplqphceyl6uvjltqjb5j5gvrystr37i
+- tokenId: 2538377f5a0e76beb30988487ed316184d1c4bebfde830c1bde672ac24013c25
+  name: Girl and cat 1/1
+  description: Girl and cat 1/1 | 2000x2000 px | Creator @norellyrain
+  imageUrl: https://i.ibb.co/0rxkzVN/ERGO-blockchain-NFT.jpg
+- tokenId: b1e093756f46e9e0d359a0cd25cc5d131c00afa3df5f79d1e9b0405e2b187e35
+  name: Girl with horns 1/1
+  description: Girl with horns 1/1 | 2000x2000 px | Creator @norellyrain
+  imageUrl: https://i.ibb.co/MpCQw1v/ERGO-blockchain-NFT.jpg
+- tokenId: 4e1412213779dc924a44d3a76225bef258f2074914699e452c81ef421ee1398b
+  name: Goat girl 1/1
+  description: Goat girl 1/1 | 2000x2000 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigstxxscanutzggqqcrpaut7wa2lgrggw2zkemr6dpldpkwmzhl5y
+- tokenId: 74733c82c14808156c2a680b7d93d5b0639ddcfd22c5bc576a4a5dc7b9186b4b
+  name: Inquisitive girl 1/1
+  description: Inquisitive girl | 2000x2000 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifdobbqt7rzfu2lwzwsi5fihnvjqiskaxjkojdnjkc7fc57gg6iry
 - tokenId: dffb058300ca863b27d08da0e1d0c1b7b8a714dbc9a2f6145dd7d1b36d6ac6e8
   name: Redhead girl 1/1
   description: Redhead girl 1/1 | 2000x2000 px | Creator @norellyrain
@@ -27,6 +50,11 @@ nfts:
   name: Sad girl 1/1
   description: Sad girl 1/1 | 2000x2000 px | Creator @norellyrain
   imageUrl: https://i.ibb.co/8XpDX7g/ERGO-blockchain-NFT.jpg
+- tokenId: 775cc365f6bc605d58c6402f4c2e13947245b9bec4f5cc7315c8902d6d2f40cb
+  name: Scientist girl 1/1
+  description: Scientist girl 1/1 | 2000x2000 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifxkubsmtmhjk7ztaneqzjw4kpvuhlpc6sxchhu2lyp5yfrjf6j6q
 - tokenId: 3ea6b992b57259329212b30b0417b54252bff94cc75f21ac88245010c0105a78
   name: Sly girl 1/1 |
   description: Sly girl 1/1 | 2000x2000 px | Creator @norellyrain
