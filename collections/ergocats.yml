@@ -9,21 +9,11 @@ nfts:
   description: 'Ergo cat #02 | Teenager | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeieclykkqpq6m6yjpvr6ir6qmlsobalqxlk7l52eyd5k2hl2giesr4
-- tokenId: bb3fcc35bbdae7d25288889bd49378b2a05632f75f26044327c53c357e384c57
-  name: 'Ergo cat #02'
-  description: 'Ergo cat #02 | Teenager | 2000x2000 px | Creator @norellyrain'
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeifz5ufkkr77pxhrkggayb7r2hhwvaigg3fbqilawci3yx4gfz57yy
 - tokenId: 376db947bd4e4c682a6c8eafd0261fd86cd21f3e9f67b694bcd4d0c689cdfbc2
   name: 'Ergo cat #03'
   description: 'Ergo cat #03 | Aristocrat | 2000x2000 px | Creator @norellyrain'
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeigusft7rgd4zifn4xtnxr3telnoncb4qvix57qjuabxourl7ilffm
-- tokenId: 05fa4b5a373ff85b03584b25e2b405c782fffecade74c20b3c9db54b77ceef8c
-  name: 'Ergo cat #03'
-  description: 'Ergo cat #03 | Aristocrat | 2000x2000 px | Creator @norellyrain'
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibjdbit733pv7mnjwnckf7zv7j35lpanhve7py4uwdefbt7td3ndy
 - tokenId: 70d72aa96dd2e2b914b1ea3f0583d4f40ac54a195fa61f15bf1d08295ca0add2
   name: 'Ergo cat #04'
   description: 'Ergo cat #04 | Fairy | 2000x2000 px | Creator @norellyrain'
