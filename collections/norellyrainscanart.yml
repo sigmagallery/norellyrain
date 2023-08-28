@@ -4,3 +4,44 @@ nfts:
   description: Scan art | Watercolor | Key keeper 1/1 | 1500x2300 px | Creator @norellyrain
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeig7zj4ytfjglixuuaoavyx23pwqhmbremip5skd2xtu2rwza3zf5a
+
+- tokenId: 92e6d5e241314c1c562823a188dd1124c0697e9027e3da058623fe57f8501736
+  name: 'Scan art #002 | Blue unicorn'
+  description: 'Scan art #002 | Blue unicorn | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibx6vsu3n3oraiswaqrkbnyg5ud7setguw5ngnoeabiuyfuuq3qci
+- tokenId: d1d663e8178ba0561d4e4baf8cc9df5aa06ab690e637058829f669d31c51f96e
+  name: 'Scan art #003 | Witch'
+  description: 'Scan art #003 | Witch | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaohwx7hjrm5htba37xebdazgthzdavmgp767qsht2hf73ay7oj4i
+- tokenId: 9fd7230a1df6067ba71669d6fc83f1198c2f20b8054f202c625ac070c709be92
+  name: 'Scan art #004 | Cats'
+  description: 'Scan art #004 | Cats | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihs7qgrc5lr4a7whrtq7ybjos2dz2btmoo2kpfldzjc7mbd53xvpe
+- tokenId: 7ab0b01d10ba7dd4b2f613aa50cb30d48b90b4280ba8e90bb82063ffdbf8f4cf
+  name: 'Scan art #005 | Spring girl'
+  description: 'Scan art #005 | Spring girl | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicph3espl6ztm3uz4nq6mfvlo3agga7nczmy446e6rvva4vb6snxa
+- tokenId: dee571bd79a621aebb77ec8348eb0c1ef6acfa50b97965f94c0a09553bc684fe
+  name: 'Scan art #006 | Mythical girl'
+  description: 'Scan art #006 | Mythical girl | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicw2ohdi5efujie3obvkjxbs5wjuws6tzwkezouta34a5ttpbnxzq
+- tokenId: 977b086700122328e8c6b8d8b23776a10af45c18fb538a9b4f7da5a08b82327c
+  name: 'Scan art #007 | Granny'
+  description: 'Scan art #007 | Granny | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibhg3ugex6tsjd3bl34qg43nryccdt5jf557zsqzuyelkxfdaq3zm
+- tokenId: 266ea5111e8e02aa9984be9e823553823067ca7205e84bc6481f289589061f7c
+  name: 'Scan art #008 | Elf'
+  description: 'Scan art #008 | Elf | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeieeyosxmsa3brxihyvrltniedpd6w2miemox63h63o6t5lj7ignoy
+- tokenId: 7821945228f67c4ed6f1adf373a6733d78931d22928d2e97db0d262c8e497246
+  name: 'Scan art #009 | Crazy '
+  description: 'Scan art #009 | Crazy | 2000x2000 px | Creator @norellyrain'
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifodo6cg2x76u3gi3n3ujvwbnmzpkffmxr7agbtlc2vwcsntnouda
