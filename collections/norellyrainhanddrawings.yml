@@ -29,3 +29,13 @@ nfts:
   description: Werewolf 1/1 | 2000x2250 px | Creator @norellyrain
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeihysvhjp36gzatrr7xbw4uknkva4yqlmu6kn5w4n7fqj74kzt3fcm
+- tokenId: ac3c6f3cbb0ef2b87b69883ef6831ed15932714727dcdf4eb52f1fb154e8d94d
+  name: Guardian of the forest 1/1
+  description: Guardian of the forest 1/1 | 2000x1500 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiavjvg3vy7d6da3swvbgh2nrr4ud5evqvshiz6dh6fkeivm7g6ama
+- tokenId: 9f61980f251d3c082a26df2c15de789f353ab97dbf15280933b3d582a9f4d1fa
+  name: Clown show 1/1
+  description: Clown show 1/1 | 2000x1440 px | Creator @norellyrain
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihx266jywzxs5tydnnnmm7pdzwq2myzoij5jee3432m5gasfw2t5y
